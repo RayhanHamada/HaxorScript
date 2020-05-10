@@ -7,11 +7,11 @@ definisi keyword ini gaann didedikasikan untuk andre haxor gaaannn 🙂
 
 # Keyword
 
-"jadi_begini_gan" dan "begini_gan" untuk tanda "{"
-"jadi_begitu_gan", "begitu_gan_biar_mengerti", "jadi_begitu_gan_biar_mengerti" dan "begitu_gan" untuk tanda  "}"
-"gan" dan "gaann" untuk tanda ;
-"mulai_gaann" dan "mulai_gan" untuk kata "main"
-"endl_gan" untuk << " gaann :)\n"; 
+* "jadi_begini_gan" dan "begini_gan" untuk tanda "{"
+* "jadi_begitu_gan", "begitu_gan_biar_mengerti", "jadi_begitu_gan_biar_mengerti" dan "begitu_gan" untuk tanda  "}"
+* "gan" dan "gaann" untuk tanda ;
+* "mulai_gaann" dan "mulai_gan" untuk kata "main"
+* "endl_gan" untuk << " gaann :)\n"; 
 
 begitu gan biar mengerti 🙂 🙂
 
