@@ -3,6 +3,7 @@
 
 void halo();
 
+// ini fungsi main yang dimodifikasi gaaann
 int mulai_gaann()
   jadi_begini_gan
     
